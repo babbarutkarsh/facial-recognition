@@ -1,2 +1,2 @@
 # facial-recognition
-Recognize human faces
+Recognize human faces.
